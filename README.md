@@ -1,10 +1,10 @@
 1. Apakah kegunaan JSON pada REST API ?
-    Answer:
+    - Answer:
     JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data. 
     kegunaan JSON pada REST API adalah menyediakan data biasanya dalam format JSON untuk di konsumsi oleh aplikasi lainnya (client).
 
 2. Jelaskan bagaimana REST API bekerja ?
-    Answer:
+    - Answer:
     Dalam RESTful application akan ada 2 sisi yaitu REST Server dan REST Client.
     - REST server adalah pihak yang menyediakan data 
     - REST Client adalah pihak yang melakukan request ke REST Server. 
